@@ -32,4 +32,8 @@ class D {
     public function MD2() {
         echo __METHOD__ . "\n";
     }
+
+    public function MD4() {
+        echo __METHOD__ . "\n";
+    }
 }
