@@ -32,4 +32,8 @@ class C {
     public function MC2() {
         echo __METHOD__ . "\n";
     }
+
+    public function MC3() {
+        echo __METHOD__ . "\n";
+    }
 }
