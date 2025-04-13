@@ -32,4 +32,8 @@ class A {
     public function MA2() {
         echo __METHOD__ . "\n";
     }
+
+    public function MA3() {
+        echo "Alteração a classe A partir do clone";
+    }
 }
