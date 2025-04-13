@@ -32,4 +32,8 @@ class B {
     public function MB2() {
         echo __METHOD__ . "\n";
     }
+
+    public function MB3() {
+        echo __METHOD__ . "\n";
+    }
 }
